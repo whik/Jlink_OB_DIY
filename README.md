@@ -34,4 +34,8 @@ PCB：[My_Jlink_OB.PcbDoc](https://gitee.com/whik/Jlink_OB_DIY/raw/master/Altium
 
 ![图片3](https://gitee.com/whik/Jlink_OB_DIY/raw/master/Img/%E5%9B%BE%E7%89%873.jpg)
 
+----
 
+微信扫码关注我的公众号
+
+![](https://wcc-blog.oss-cn-beijing.aliyuncs.com/img/%E6%B1%82%E5%85%B3%E6%B3%A8.jpg)
